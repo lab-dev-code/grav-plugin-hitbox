@@ -1,6 +1,7 @@
 # Grav Hitbox Plugin
 
 [![Join the chat at https://gitter.im/lab-dev-code/grav-plugin-hitbox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lab-dev-code/grav-plugin-hitbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/11bccb18-ac9d-4dd2-8bdd-331f4e49a553/mini.png)](https://insight.sensiolabs.com/projects/11bccb18-ac9d-4dd2-8bdd-331f4e49a553)
 
 `Hitbox` is a simple [Grav][grav] Plugin that converts markdown links into [Hitbox.tv][hitbox.tv] embeds.
 
