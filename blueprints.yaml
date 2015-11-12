@@ -1,6 +1,6 @@
 name: Hitbox
 version: 1.0.0
-description: "**Hitbox** converts markdown links into Hitbox.tv embeds."
+description: "**Hitbox** is a simple plugin that converts markdown links into Hitbox.tv embeds."
 icon: th
 author:
     name: Dev'Code
