@@ -1,5 +1,7 @@
 # Grav Hitbox Plugin
 
+[![Join the chat at https://gitter.im/lab-dev-code/grav-plugin-hitbox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lab-dev-code/grav-plugin-hitbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 `Hitbox` is a simple [Grav][grav] Plugin that converts markdown links into [Hitbox.tv][hitbox.tv] embeds.
 
 ![](screenshot.jpg)
